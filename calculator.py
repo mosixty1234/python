@@ -1,3 +1,6 @@
+# how again() function is commented 
+
+# Define again() function to ask user if they want to use the calculator again
 def calculate():
     # This is where your calculation logic would go
     print("Performing a calculation...")
